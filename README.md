@@ -1,3 +1,13 @@
 # CS-255-Driver-Pass-Documentation
-The Driver Pass project was an online driving school system. This system would allow users to buy driving lesson packages, schedule those lessons, take practice exams, and more. The system would allow students, secretaries, driving instructors, and other staff to manage their own unique accounts. This project displays the business requirements collected and organized categorically, as well as interpreted into several UML diagrams. It’s important to consider the user’s needs when designing a system so as not to stray off track and also to appeal to their wants as they are the general audience. 
- I also learned from now on to create UML diagrams to plan my code before developing it, as diagrams such as class diagrams are skilled at highlighting relationships and attributes within the code.  
+## Project Overview
+The Driver Pass project was meant to demonstrate understanding of the AGILE analysis and design steps in the Software Development Lifecycle. Driver Pass was a fictional online driving school management system with the requirements of: streamlining the process of purchasing driving lesson packages, scheduling lessons, taking practice exams, and managing user accounts. This system design caters to multiple user roles, including students, secretaries, driving instructors, and other staff members, each with unique account functionalities.
+
+## Purpose and Goals
+The primary objective of this project was to analyze and design a user-friendly system that meets the specific needs of its users while ensuring efficiency and ease of access. This document presents the business requirements, categorically organized and visually represented through UML diagrams, aiding in system architecture and planning.
+
+## System Design Approach
+To ensure a well-structured system, UML diagrams were used, including:
+
+Use Case Diagrams: To visualize system interactions for different user roles.
+Class Diagrams: To define system structure, relationships, and attributes before development.
+Sequence Diagrams: To model the flow of interactions within key system processes.
